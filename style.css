@@ -53,6 +53,10 @@
         margin-top: 50px;
     }
 
+    #texto-video{
+        color: #383838;
+    }
+
     #video{
         margin: 50px 0px 50px 150px;
     }
@@ -139,5 +143,14 @@
     }
 
     #Leonardo{
-        margin-left: 290px;
+        margin: 50px 0px 0px 300px;
+    }
+
+    #Samantha{
+        margin: 50px 0px 0px 75px;
+    }
+
+    #Bruna{
+        margin: 50px 0px 0px 0px;
+        padding-left: 0;
     }
